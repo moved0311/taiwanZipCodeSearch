@@ -1,7 +1,7 @@
 import { Component, OnInit, AfterViewInit } from '@angular/core';
 declare var L: any;
 import * as $ from 'jquery';
-
+//practice deploy on github page.
 @Component({
   selector: 'app-root',
   template: `<div id="map"></div>`,
